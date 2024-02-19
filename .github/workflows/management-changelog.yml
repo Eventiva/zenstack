@@ -44,7 +44,7 @@ on:
     - main # Your main branch
     - dev # Your development branch
     - release/* # Your releases branch
-    # - v2 # Your current v2 branch - disabled for now because I don't know if you want to have this tag on this branch or not -_- 
+    - v2 # Your current v2 branch - disabled for now because I don't know if you want to have this tag on this branch or not -_- 
     # TODO: Rename your V2 brach to release/v2 for proper versioning if you intend to use a Release branch method
 
 permissions:
